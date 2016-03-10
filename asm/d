@@ -1,0 +1,2 @@
+# Dissassemble
+otool -tdV a.out

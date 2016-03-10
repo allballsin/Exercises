@@ -1,0 +1,2 @@
+#Compile
+xcrun -sdk iphoneos9.2 clang -arch armv7 t1.c 
